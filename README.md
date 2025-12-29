@@ -1,5 +1,5 @@
 #  Market - Agentic RAG System
-![Uploading WhatsApp Image 2025-12-30 at 12.29.24 AM.jpeg…]()
+![Uploading WhatsApp Image 2025-12-30 at 12.29.24 AM.jpeg…](https://github.com/user-attachments/assets/ebbb3548-55c5-4e9c-b55c-b65876131fba)
 
 An advanced **Market Intelligence Analyst** built with a **RAG (Retrieval-Augmented Generation)** architecture. This system performs real-time web searching using **Tavily AI** and synthesizes professional market reports using **Llama-3 (Groq)** and **LangChain**.
 
@@ -24,4 +24,5 @@ market_analyst_rag/
 ├── .env                # API Keys (Tavily, Groq/OpenAI)
 
 └── requirements.txt    # Project Dependencies
+
 
