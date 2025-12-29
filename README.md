@@ -1,4 +1,4 @@
-# 📊 Market Intel AI - Agentic RAG System
+#  Market - Agentic RAG System
 
 An advanced **Market Intelligence Analyst** built with a **RAG (Retrieval-Augmented Generation)** architecture. This system performs real-time web searching using **Tavily AI** and synthesizes professional market reports using **Llama-3 (Groq)** and **LangChain**.
 
@@ -21,4 +21,5 @@ market_analyst_rag/
 ├── search_engine.py    # Tavily Integration - The Search Component
 ├── streamlit_app.py    # Streamlit UI - The Frontend
 ├── .env                # API Keys (Tavily, Groq/OpenAI)
+
 └── requirements.txt    # Project Dependencies
